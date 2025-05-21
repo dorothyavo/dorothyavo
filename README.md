@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dorothy 👋
 
-<!--
-**dorothyavo/dorothyavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Github! I'm a data science grad student at Harvard with a background in business. I love turning messy data into useful insights. My current interests include time series forecasting, model development, and building educational tools.
 
-Here are some ideas to get you started:
+### 📌 Featured Projects
+- [Time Series EDA in R](https://github.com/dorothyavo/timeseries-eda)
+- [Titanic Survival ML Models](https://github.com/dorothyavo/titanic-ml)
+- [BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletterapp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Skills
+Python, R, SQL, scikit-learn, ggplot2, Tableau, Git, Markdown
+
+---
+
+## 🌱 Currently Learning
+- Deep learning for image-based apps
+- Machine learning models
+
+---
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dorothy-vo-7005aa344/)
