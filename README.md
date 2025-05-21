@@ -20,3 +20,4 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 ---
 
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dorothy-vo-7005aa344/)
+📥 Hire me on [Upwork](https://www.upwork.com/freelancers/~01223bd55335eb0d51?mp_source=share)
