@@ -8,14 +8,14 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 - [BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletterapp)
 
 ### 🧰 Tools & Skills
-Languages: Python, R, SQL
-Databases: MySQL
-Visualization: ggplot2, Tableau, matplotlib, seaborn
-Statistical Modeling: linear regression, logistic regression, regularization (Ridge, Lasso), time series forecasting
-Data Wrangling: pandas, dplyr, tidyr
-Machine Learning: scikit-learn, caret
-Reporting & Reproducibility: R Markdown, Jupyter Notebook
-Version Control: Git, GitHub
+- Languages: Python, R, SQL
+- Databases: MySQL
+- Visualization: ggplot2, Tableau, matplotlib, seaborn
+- Statistical Modeling: linear regression, logistic regression, regularization (Ridge, Lasso), time series forecasting
+- Data Wrangling: pandas, dplyr, tidyr
+- Machine Learning: scikit-learn, caret
+- Reporting & Reproducibility: R Markdown, Jupyter Notebook
+- Version Control: Git, GitHub
 
 ---
 
