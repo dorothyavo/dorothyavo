@@ -4,7 +4,6 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 
 ### 📌 Featured Projects
 - [Time Series EDA in R](https://github.com/change-hi/change-hi.github.io)
-- [Titanic Survival ML Models](https://github.com/dorothyavo/titanic-ml)
 - [BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletterapp)
 
 ### 🧰 Tools & Skills
