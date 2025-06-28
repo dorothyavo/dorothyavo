@@ -4,6 +4,10 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 
 ### 📌 Featured Projects
 - [Time Series EDA in R](https://github.com/change-hi/change-hi.github.io)
+
+  Hawaii Data Science Institude Workshop:
+  ![image](https://github.com/user-attachments/assets/37cc29e3-350f-4a48-92e1-282cbab7135b)
+
 - [BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletterapp)
 - [Flu Shot Learning: Predicting h1n1_vaccine and seasonal_vaccine](https://github.com/dorothyavo/Predicting-H1N1-and-Seasonal-Flu-Vaccines-)
   
