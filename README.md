@@ -27,5 +27,11 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 
 ---
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/dorothy-vo-7005aa344/)<br><br>
-📥 Hire me on [Upwork](https://www.upwork.com/freelancers/~01223bd55335eb0d51?mp_source=share)
+Other profiles: 
+<br><br>
+<a href="https://www.linkedin.com/in/dorothy-vo-7005aa344/" target="_blank">
+  <img src="https://github.com/dorothyavo/dorothyavo/blob/main/ef8396403b8309a82097177a24363787.jpg?raw=true" alt="LinkedIn" height="40" style="vertical-align:middle;"/>
+</a> <br>
+<a href="https://www.upwork.com/freelancers/~01223bd55335eb0d51?mp_source=share" target="_blank">
+  <img src="https://github.com/dorothyavo/dorothyavo/blob/main/Upwork-logo.svg.png?raw=true?raw=true" alt="UpWork" height="60" style="vertical-align:middle;"/>
+</a>
