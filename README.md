@@ -23,7 +23,7 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 - Data Wrangling: pandas, dplyr, tidyr
 - Machine Learning: scikit-learn, caret
 - Reporting & Reproducibility: R Markdown, Jupyter Notebook
-- Version Control: Git, GitHub
+- Version Control: ![Static Badge](https://img.shields.io/badge/Git--orange?labelColor=orange), ![Static Badge](https://img.shields.io/badge/GitHub--orange)
 
 ---
 
