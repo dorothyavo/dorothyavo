@@ -21,7 +21,7 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 - Visualization: ![ggplot2](https://img.shields.io/badge/ggplot2--lightgray?logoColor=lightgray&label=ggplot2&labelColor=lightgray&color=lightgray), ![Tableau](https://img.shields.io/badge/Tableau--skyblue), ![matplotlib](https://img.shields.io/badge/matplotlib--lightgray?logoColor=blue&label=matplotlib&labelColor=lightgray&color=lightgray), ![seaborn](https://img.shields.io/badge/seaborn--lightgray?logoColor=blue&label=seaborn&labelColor=lightgray&color=lightgray)
 - Statistical Modeling: linear regression, logistic regression, regularization (Ridge, Lasso), time series forecasting
 - Data Wrangling: ![Pandas](https://img.shields.io/badge/pandas--lightgray?logoColor=blue&label=pandas&labelColor=lightgray&color=lightgray), ![dplyr](https://img.shields.io/badge/dplyr--lightgray?logoColor=blue&label=dplyr&labelColor=lightgray&color=lightgray), ![tidyr](https://img.shields.io/badge/tidyr--lightgray?logoColor=blue&label=tidyr&labelColor=lightgray&color=lightgray)
-- Machine Learning: scikit-learn, caret
+- Machine Learning: ![sklearn](https://img.shields.io/badge/sklearn--lightgray?logoColor=lightgray&label=sklearn&labelColor=lightgray&color=lightgray), ![caret](https://img.shields.io/badge/caret--lightgray?logoColor=lightgray&label=caret&labelColor=lightgray&color=lightgray)
 - Reporting & Reproducibility: ![Rstudio](https://img.shields.io/badge/R%20Studio--blue?label=R-Studio), ![JupyterNB](https://img.shields.io/badge/Jupyter%20Notebook--red)
 - Version Control: ![Git](https://img.shields.io/badge/Git--orange?labelColor=orange), ![GitHub](https://img.shields.io/badge/GitHub--orange)
 
