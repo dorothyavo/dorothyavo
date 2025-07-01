@@ -18,9 +18,9 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 ### Tools & Skills
 - Languages: ![Python](https://img.shields.io/badge/Python--red?labelColor=red), ![R](https://img.shields.io/badge/R--1F65CC?style=flat&labelColor=1F65CC), ![SQL](https://img.shields.io/badge/SQL--green?labelColor=green)
 - Databases: ![MySQL](https://img.shields.io/badge/MySQL--green)
-- Visualization: ggplot2, ![Tableau](https://img.shields.io/badge/Tableau--skyblue), matplotlib, seaborn
+- Visualization: ![ggplot2](https://img.shields.io/badge/ggplot2--lightgray?logoColor=lightgray&label=ggplot2&labelColor=lightgray&color=lightgray), ![Tableau](https://img.shields.io/badge/Tableau--skyblue), ![matplotlib](https://img.shields.io/badge/matplotlib--lightgray?logoColor=blue&label=matplotlib&labelColor=lightgray&color=lightgray), ![seaborn](https://img.shields.io/badge/seaborn--lightgray?logoColor=blue&label=seaborn&labelColor=lightgray&color=lightgray)
 - Statistical Modeling: linear regression, logistic regression, regularization (Ridge, Lasso), time series forecasting
-- Data Wrangling: pandas, dplyr, tidyr
+- Data Wrangling: ![Pandas](https://img.shields.io/badge/pandas--lightgray?logoColor=blue&label=pandas&labelColor=lightgray&color=lightgray), ![dplyr](https://img.shields.io/badge/dplyr--lightgray?logoColor=blue&label=dplyr&labelColor=lightgray&color=lightgray), ![tidyr](https://img.shields.io/badge/tidyr--lightgray?logoColor=blue&label=tidyr&labelColor=lightgray&color=lightgray)
 - Machine Learning: scikit-learn, caret
 - Reporting & Reproducibility: ![Rstudio](https://img.shields.io/badge/R%20Studio--blue?label=R-Studio), ![JupyterNB](https://img.shields.io/badge/Jupyter%20Notebook--red)
 - Version Control: ![Git](https://img.shields.io/badge/Git--orange?labelColor=orange), ![GitHub](https://img.shields.io/badge/GitHub--orange)
