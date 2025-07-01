@@ -16,7 +16,7 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
   ![Rstudio](https://img.shields.io/badge/R%20Studio--blue?label=R-Studio)
 
 ### Tools & Skills
-- Languages: ![Python](https://img.shields.io/badge/Python--red?labelColor=red), ![R](https://img.shields.io/badge/R--1F65CC?style=flat&labelColor=1F65CC), ![SQL](https://img.shields.io/badge/SQL--green?labelColor=green)
+- Languages: ![Python](https://img.shields.io/badge/Python--red?labelColor=red), ![R](https://img.shields.io/badge/R--blue?style=flat&labelColor=blue), ![SQL](https://img.shields.io/badge/SQL--green?labelColor=green)
 - Databases: ![MySQL](https://img.shields.io/badge/MySQL--green)
 - Visualization: ![ggplot2](https://img.shields.io/badge/ggplot2--lightgray?logoColor=lightgray&label=ggplot2&labelColor=lightgray&color=lightgray), ![Tableau](https://img.shields.io/badge/Tableau--skyblue), ![matplotlib](https://img.shields.io/badge/matplotlib--lightgray?logoColor=blue&label=matplotlib&labelColor=lightgray&color=lightgray), ![seaborn](https://img.shields.io/badge/seaborn--lightgray?logoColor=blue&label=seaborn&labelColor=lightgray&color=lightgray)
 - Statistical Modeling: linear regression, logistic regression, regularization (Ridge, Lasso), time series forecasting
