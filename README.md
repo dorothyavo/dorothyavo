@@ -16,13 +16,13 @@ Welcome to my Github! I'm a data science grad student at Harvard with a backgrou
 - [BetterLetter: Handwriting Improvement App](https://github.com/dorothyavo/betterletterapp)
 - [Time Series EDA in R](https://github.com/change-hi/change-hi.github.io/tree/main/morea/time-series-analysis):
   
-  ![image](https://github.com/user-attachments/assets/37cc29e3-350f-4a48-92e1-282cbab7135b)
+  [![EDA-TS](https://github.com/dorothyavo/dorothyavo/blob/main/EDA%20TIME%20SERIES.png?raw=true)](https://github.com/change-hi/change-hi.github.io/tree/main/morea/time-series-analysis)
   ![Rstudio](https://img.shields.io/badge/R%20Studio--blue?label=R-Studio)
 
 - [Flu Shot Learning: Predicting h1n1_vaccine and seasonal_vaccine](https://github.com/dorothyavo/Predicting-H1N1-and-Seasonal-Flu-Vaccines-)
   
   Current project background:
-  ![image](https://github.com/user-attachments/assets/3f3ff60b-730f-4a41-ab86-6d02239be0ff)
+  [![Flu Vaccine Project](https://github.com/user-attachments/assets/3f3ff60b-730f-4a41-ab86-6d02239be0ff)](https://github.com/dorothyavo/Predicting-H1N1-and-Seasonal-Flu-Vaccines-)
   ![Rstudio](https://img.shields.io/badge/R%20Studio--blue?label=R-Studio), ![tidyverse](https://img.shields.io/badge/tidyverse--lightgray?logoColor=lightgray&label=tidyverse&labelColor=lightgray&color=lightgray), ![naniar](https://img.shields.io/badge/naniar--lightgray?logoColor=lightgray&label=naniar&labelColor=lightgray&color=lightgray), ![fastDummies](https://img.shields.io/badge/fastDummies--lightgray?logoColor=lightgray&label=fastDummies&labelColor=lightgray&color=lightgray), ![forcats](https://img.shields.io/badge/forcats--lightgray?logoColor=lightgray&label=forcats&labelColor=lightgray&color=lightgray), ![dplyr](https://img.shields.io/badge/dplyr--lightgray?logoColor=lightgray&label=dplyr&labelColor=lightgray&color=lightgray), ![caret](https://img.shields.io/badge/caret--lightgray?logoColor=lightgray&label=caret&labelColor=lightgray&color=lightgray), ![pROC](https://img.shields.io/badge/pROC--lightgray?logoColor=lightgray&label=pROC&labelColor=lightgray&color=lightgray) 
 
 ---
