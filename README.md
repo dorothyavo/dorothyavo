@@ -1,6 +1,6 @@
 # Hi, I'm Dorothy!
 
-Welcome to my Github! I'm a data science grad student at Harvard with a background in business. I love turning messy data into useful insights. My current interests include time series forecasting, model development, and building educational tools.
+Welcome to my Github! I'm a Data Analyst with a background in business. I love turning messy data into useful insights. My current interests include time series forecasting, model development, and building educational tools.
 
 ### Tools & Skills
 - Languages: ![Python](https://img.shields.io/badge/Python--red?labelColor=red), ![R](https://img.shields.io/badge/R--blue?style=flat&labelColor=blue), ![SQL](https://img.shields.io/badge/SQL--green?labelColor=green)
